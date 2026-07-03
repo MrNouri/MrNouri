@@ -53,6 +53,24 @@ Founder of Nouri.Academy
 
 ---
 
+## 🏢 Professional Journey
+
+Over the past **14+ years**, I've had the privilege of contributing to products and teams at some of the leading companies in telecommunications, mobility, healthcare, and investment sectors.
+
+<p align="center">
+
+| Company | Industry |
+|---------|-----------|
+| 🇮🇷 MCI (Mobile Communication Company of Iran) | Telecommunications |
+| 🚕 Snapp | Mobility & Super App |
+| 💊 Abidi Pharmaceutical Company | Healthcare & Pharmaceuticals |
+| 💊 Cobel Darou | Pharmaceutical Technology |
+| 💼 Lian Capital | Investment & Financial Services |
+
+</p>
+
+---
+
 # 🛠 Tech Stack
 
 ## Languages
@@ -83,24 +101,6 @@ Founder of Nouri.Academy
 ![Koin](https://img.shields.io/badge/Koin-FF4081?style=for-the-badge)
 ![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
-
----
-
-## 🏢 Professional Journey
-
-Over the past **14+ years**, I've had the privilege of contributing to products and teams at some of the leading companies in telecommunications, mobility, healthcare, and investment sectors.
-
-<p align="center">
-
-| Company | Industry |
-|---------|-----------|
-| 🇮🇷 MCI (Mobile Communication Company of Iran) | Telecommunications |
-| 🚕 Snapp | Mobility & Super App |
-| 💊 Abidi Pharmaceutical Company | Healthcare & Pharmaceuticals |
-| 💊 Cobel Darou | Pharmaceutical Technology |
-| 💼 Lian Capital | Investment & Financial Services |
-
-</p>
 
 ---
 
