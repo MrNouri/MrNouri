@@ -68,9 +68,10 @@ Founder of Nouri.Academy
 
 ## Architecture
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-green?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-blue?style=for-the-badge)
 ![MVI](https://img.shields.io/badge/MVI-purple?style=for-the-badge)
+![MVP](https://img.shields.io/badge/MVP-yellow?style=for-the-badge)
 
 ## Libraries & Tools
 
@@ -85,13 +86,31 @@ Founder of Nouri.Academy
 
 ---
 
-# 📊 GitHub Stats
+## 🏢 Professional Journey
+
+Over the past **14+ years**, I've had the privilege of contributing to products and teams at some of the leading companies in telecommunications, mobility, healthcare, and investment sectors.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrNouri&show_icons=true&theme=tokyonight&hide_border=true"/>
+| Company | Industry |
+|---------|-----------|
+| 🇮🇷 MCI (Mobile Communication Company of Iran) | Telecommunications |
+| 🚕 Snapp | Mobility & Super App |
+| 💊 Abidi Pharmaceutical Company | Healthcare & Pharmaceuticals |
+| 💊 Cobel Darou | Pharmaceutical Technology |
+| 💼 Lian Capital | Investment & Financial Services |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNouri&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/MrNouri?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/MrNouri?style=for-the-badge&logo=github"/>
 
 </p>
 
