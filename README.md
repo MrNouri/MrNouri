@@ -8,7 +8,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/mohammad-nouri-78a6191a2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-nouri-78a6191a2/)
 [![Website](https://img.shields.io/badge/Website-Nouri.Academy-00C7B7?style=for-the-badge)](https://nouri.academy)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/nouri.academy)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:nouri.softeng@gmail.com)
