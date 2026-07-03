@@ -1,112 +1,169 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/44635442?v=4" width="140" style="border-radius: 50%;" alt="Mohammad Nouri"/>
-# Hi, I'm Mohammad Nouri 👋
-### Senior Android Developer | 14+ Years Building Native Android Apps
- 
-**Turning complex product requirements into fast, stable, beautifully engineered Android apps.**
- 
-[![Website](https://img.shields.io/badge/Website-nouri.academy-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](http://nouri.academy/)
-[![Location](https://img.shields.io/badge/Location-Tehran,_Iran-orange?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/MrNouri)
-[![Followers](https://img.shields.io/github/followers/MrNouri?style=for-the-badge&color=blueviolet&label=Followers)](https://github.com/MrNouri?tab=followers)
-[![Stars](https://img.shields.io/github/stars/MrNouri?style=for-the-badge&color=yellow&label=Stars)](https://github.com/MrNouri?tab=repositories)
- 
+
+# Hi 👋, I'm Mohammad Nouri
+
+### Senior Android Engineer • Kotlin Enthusiast • Jetpack Compose Expert
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=14%2B+Years+of+Android+Development;Jetpack+Compose+Expert;Kotlin+%7C+XML+%7C+Clean+Architecture;Building+Beautiful+Mobile+Experiences" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Website](https://img.shields.io/badge/Website-Nouri.Academy-00C7B7?style=for-the-badge)](https://nouri.academy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/nouri.academy)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:you@example.com)
+
 </div>
+
 ---
- 
-## 🚀 About Me
- 
-I'm a **Senior Android Developer** with **14+ years of hands-on experience** shipping production apps used by real people — from early Java/XML days to modern **Kotlin + Jetpack Compose**. I currently build and maintain a large-scale **medical/pharmaceutical enterprise app**, owning everything from architecture decisions to pixel-perfect custom UI components.
- 
-- 🏥 Building a production **MVVM** Android app (Hilt, Retrofit/OkHttp, Coroutines/Flow, Fragment + Compose hybrid navigation)
-- 🎨 Deep specialist in **custom Views & custom Compose components** — the kind of UI that "just works" and looks great doing it
-- 🧩 Comfortable owning a feature end-to-end: architecture → networking → UI → debugging → shipping
-- 🎓 Run an Android education platform, teaching real-world Android development in Persian
-- 🌍 Currently expanding into international opportunities — open to relocation
+
+# 🚀 About Me
+
+I'm a passionate **Senior Android Engineer** with more than **14 years of experience** in designing, building, and scaling Android applications.
+
+I specialize in:
+
+- 📱 Native Android Development
+- ⚡ Kotlin & Coroutines
+- 🎨 Jetpack Compose & XML UI
+- 🏗 Clean Architecture & Modularization
+- 🌐 REST APIs & Networking
+- 🔥 Performance Optimization
+- 🧪 Testing & Maintainable Code
+- 👨‍🏫 Mentoring and Technical Leadership
+
+I love building applications that are:
+
+✅ Fast  
+✅ Scalable  
+✅ Beautiful  
+✅ Maintainable  
+✅ User-Centric
+
 ---
- 
-## 🛠️ Tech Stack
- 
-<div align="center">
+
+# 💼 Professional Experience
+
+```text
+14+ Years of Android Development
+Senior Android Engineer
+Technical Mentor & Content Creator
+Founder of Nouri.Academy
+```
+
+---
+
+## 🏢 Professional Journey
+
+Over the past **14+ years**, I've had the privilege of contributing to products and teams at some of the leading companies in telecommunications, mobility, healthcare, and investment sectors.
+
+<p align="center">
+
+| Company | Industry |
+|---------|-----------|
+| 🇮🇷 MCI (Mobile Communication Company of Iran) | Telecommunications |
+| 🚕 Snapp | Mobility & Super App |
+| 💊 Abidi Pharmaceutical Company | Healthcare & Pharmaceuticals |
+| 💊 Cobel Darou | Pharmaceutical Technology |
+| 💼 Lian Capital | Investment & Financial Services |
+
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android XML](https://img.shields.io/badge/Android_Views/XML-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-6E4AFF?style=for-the-badge)
-![Hilt](https://img.shields.io/badge/Hilt-DI-FF6F00?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-OkHttp-48B983?style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/Coroutines-Flow-FF7043?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- 
-</div>
-### Skill Breakdown
- 
-```
-Android (XML Views)        ████████████████████  100%
-Jetpack Compose             ██████████████████░░   90%
-Kotlin                     ████████████████████  100%
-MVVM / Clean Architecture   ███████████████████░   95%
-Custom Views & Animations   ████████████████████  100%
-Networking (Retrofit/OkHttp)███████████████████░   95%
-Dependency Injection (Hilt) ██████████████████░░   90%
-Real-time Systems (WebSocket)█████████████████░░   85%
-```
- 
+
+## Android
+
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose)
+![XML](https://img.shields.io/badge/XML_UI-orange?style=for-the-badge)
+
+## Architecture
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-green?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-blue?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-purple?style=for-the-badge)
+![MVP](https://img.shields.io/badge/MVP-yellow?style=for-the-badge)
+
+## Libraries & Tools
+
+![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge)
+![Koin](https://img.shields.io/badge/Koin-FF4081?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+
 ---
- 
-## 💼 What I Bring to a Team
- 
-| Area | Details |
-|---|---|
-| **Experience** | 14+ years professional Android development |
-| **Architecture** | MVVM, Repository pattern, Clean Architecture, StateFlow/LiveData |
-| **UI Mastery** | Both classic XML Views **and** modern Jetpack Compose — no rewrites needed, no gaps in coverage |
-| **Custom Components** | Author of custom Views/libraries used by other developers (see repos below) |
-| **Real-world Systems** | Chat/WebSocket integrations, audio recording & waveform visualization, complex multi-filter data flows, chart rendering (MPAndroidChart), crash monitoring (Sentry) |
-| **Craftsmanship** | Obsessive about clean, maintainable, bug-free code and pixel-perfect UI |
-| **Mentorship** | Creator of Persian-language Android courses — I explain things clearly, which means I document and communicate clearly on teams too |
- 
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/MrNouri?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/MrNouri?style=for-the-badge&logo=github"/>
+
+</p>
+
 ---
- 
-## 📌 Featured Repositories
- 
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MrNouri&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrNouri&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 What I Focus On
+
+- Modern Android Development
+- Jetpack Compose
+- Kotlin Multiplatform
+- Scalable Architecture
+- Performance Engineering
+- Building Developer Communities
+- Teaching Android Development
+
+---
+
+# 🌍 Let's Connect
+
+💼 Open for:
+
+- Senior Android Positions
+- Technical Consulting
+- Freelance Projects
+- Mentoring & Training
+- Open Source Collaboration
+
+---
+
 <div align="center">
-[![DynamicSizes](https://github-readme-stats.vercel.app/api/pin/?username=MrNouri&repo=DynamicSizes&theme=tokyonight)](https://github.com/MrNouri/DynamicSizes)
-[![GoodPrefs](https://github-readme-stats.vercel.app/api/pin/?username=MrNouri&repo=GoodPrefs&theme=tokyonight)](https://github.com/MrNouri/GoodPrefs)
-[![RotateView](https://github-readme-stats.vercel.app/api/pin/?username=MrNouri&repo=RotateView&theme=tokyonight)](https://github.com/MrNouri/RotateView)
- 
-</div>
-- 🔹 **[DynamicSizes](https://github.com/MrNouri/DynamicSizes)** — A new unit of measurement for consistent UI across every Android screen size (100+ stars)
-- 🔹 **[GoodPrefs](https://github.com/MrNouri/GoodPrefs)** — A lightweight library for effortless SharedPreferences access
-- 🔹 **[RotateView](https://github.com/MrNouri/RotateView)** — A custom rotating view component for Android
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrNouri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNouri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNouri&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</div>
----
- 
-## 🎯 Currently Working On
- 
-- 🏥 Feature development on a production pharma/medical Android app (multi-step filters, real-time chat, custom UI kit)
-- 🎨 Building & refining reusable custom Compose + View components
-- 📚 Creating in-depth Android courses (Kotlin, Flow, Compose) for Persian-speaking developers
-- 🌱 Exploring Kotlin Multiplatform (KMP) and backend development with Ktor
----
- 
-## 📫 Let's Connect
- 
-<div align="center">
-[![Website](https://img.shields.io/badge/Portfolio-nouri.academy-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](http://nouri.academy/)
-[![GitHub](https://img.shields.io/badge/GitHub-MrNouri-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrNouri)
- 
-**Looking for a Senior Android Developer who ships fast, writes clean code, and owns problems end-to-end? Let's talk.**
- 
-</div>
-<div align="center">
-<sub>⭐ From <a href="https://github.com/MrNouri">MrNouri</a> — "Development is my second life."</sub>
+
+### "Great software is built with passion, craftsmanship, and attention to detail."
+
+⭐ If you like my work, feel free to follow and connect!
+
 </div>
