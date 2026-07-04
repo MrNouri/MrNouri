@@ -126,16 +126,6 @@ Over the past **14+ years**, I've had the privilege of contributing to products 
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrNouri&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🎯 What I Focus On
 
 - Modern Android Development
